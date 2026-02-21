@@ -13,7 +13,7 @@ body {
   align-items: center;
 }
 
-/* Outer box */
+
 .container {
   background: #222;
   padding: 20px;
@@ -22,7 +22,7 @@ body {
   width: 320px; /* medium size */
 }
 
-/* Display */
+
 .display input {
   width: 100%;
   height: 60px;
@@ -42,7 +42,7 @@ body {
   justify-content: space-between;
 }
 
-/* Button style */
+
 input[type="button"] {
   width: 65px;
   height: 65px;
@@ -56,12 +56,11 @@ input[type="button"] {
   transition: all 0.2s;
 }
 
-/* Hover effect */
+
 input[type="button"]:hover {
   background: #444;
 }
 
-/* Operator buttons */
 .operator {
   background: #f39c12;
 }
@@ -70,7 +69,7 @@ input[type="button"]:hover {
   background: #e67e22;
 }
 
-/* Equal button */
+
 .equal {
   background: #27ae60;
   color: #fff;
